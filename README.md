@@ -27,7 +27,8 @@ This project demonstrates an automated compliance monitoring and enforcement sys
 ## Installation
 1. Clone this repository:
         git clone https://github.com/Pritish-Srivastava/compliance-monitoring.git
+   
         cd compliance-monitoring
 
-2. Follow the usage instructions to set up and run the script.
+3. Follow the usage instructions to set up and run the script.
 
