@@ -12,20 +12,24 @@ This project demonstrates an automated compliance monitoring and enforcement sys
 ## Usage
 1. Install the required Python packages:
 
+
    pip install pandas spacy scikit-learn
 
-2. Set up the 'en_core_web_lg' LLM using spaCy:
+3. Set up the 'en_core_web_lg' LLM using spaCy:
+
 
    python -m spacy download en_core_web_lg
 
-3. Modify the 'compliance_rules' dictionary and 'log_data' list in the script according to your use case.
+4. Modify the 'compliance_rules' dictionary and 'log_data' list in the script according to your use case.
 
-4. Run the script:
+5. Run the script:
+
 
    python compliance_monitoring.py
 
 ## Installation
 1. Clone this repository:
+
         git clone https://github.com/Pritish-Srivastava/compliance-monitoring.git
    
         cd compliance-monitoring
