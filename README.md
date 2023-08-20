@@ -1,4 +1,4 @@
-# Compliance Monitoring and Enforcement using Large Language Models\
+# Compliance Monitoring and Enforcement using Large Language Models
 
 ## Introduction
 This project demonstrates an automated compliance monitoring and enforcement system that utilizes large language models (LLMs) to analyze log data. It identifies non-compliant activities based on predefined compliance rules and generates actionable insights for remediation.
